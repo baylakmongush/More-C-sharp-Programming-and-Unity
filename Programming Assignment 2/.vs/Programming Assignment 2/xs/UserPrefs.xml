@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{29EF32F2-7C5D-A823-8D64-80C14F33E10E}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/AsteroidSpawner.cs">
+    <Files>
+      <File FileName="Assets/scripts/Asteroid.cs" Line="49" Column="1" />
+      <File FileName="Assets/scripts/Asteroid.cs" Line="49" Column="1" />
+      <File FileName="Assets/scripts/AsteroidSpawner.cs" Line="34" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Programming_220Assignment_2202 PreferredExecutionTarget="e1566276-813f-4126-8e00-e1689a33b777" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
