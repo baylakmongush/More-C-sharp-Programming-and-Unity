@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{7AB8C2A6-72EE-2ADB-8160-B4C7FC8A618C}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/Bullet.cs">
+    <Files>
+      <File FileName="Assets/scripts/Asteroid.cs" Line="50" Column="43" />
+      <File FileName="Assets/scripts/Ship.cs" Line="51" Column="57" />
+      <File FileName="Assets/scripts/AsteroidSpawner.cs" Line="1" Column="1" />
+      <File FileName="Assets/scripts/Bullet.cs" Line="19" Column="21" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Programming Assignment 3" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="scripts" expanded="True">
+                <Node name="Bullet.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="0e17cc42-f259-4d7e-bb5d-9c2d52820b7a" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
