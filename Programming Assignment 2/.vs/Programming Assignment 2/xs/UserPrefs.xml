@@ -1,9 +1,16 @@
 ﻿<Properties StartupConfiguration="{2E2BC105-EB71-337A-07BC-282EE6166254}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/AsteroidSpawner.cs">
-    <Files>
-      <File FileName="Assets/scripts/Asteroid.cs" Line="49" Column="1" />
-      <File FileName="Assets/scripts/AsteroidSpawner.cs" Line="28" Column="2" />
-    </Files>
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Programming Assignment 2" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="scripts" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
