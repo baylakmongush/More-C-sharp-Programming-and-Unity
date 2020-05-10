@@ -23,7 +23,7 @@ public class Ship : MonoBehaviour
 	{
 		// saved for efficiency
         rb2D = GetComponent<Rigidbody2D>();
-	}
+    }
 	
 	/// <summary>
 	/// Update is called once per frame
@@ -48,9 +48,10 @@ public class Ship : MonoBehaviour
         }
         if (Input.GetKeyDown(KeyCode.LeftControl))
         {
-            Instantiate(prefabBullet, transform.position, Quaternion.identity);
+            GameObject bullet = Instantiate(prefabBullet, transform.position, transform.rotation);
+            bullet.GetComponent<Bullet>().ApplyForce(thrustDirection);
         }
-	}
+    }
 
     /// <summary>
     /// FixedUpdate is called 50 times per second
