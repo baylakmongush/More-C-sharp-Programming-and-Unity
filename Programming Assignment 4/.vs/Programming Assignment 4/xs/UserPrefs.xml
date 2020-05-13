@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{FE310158-544B-B3E7-415F-86C259FFF152}|">
+  <MonoDevelop.Ide.ItemProperties.Programming_220Assignment_2204 PreferredExecutionTarget="8f68a64e-03fb-4b64-acce-bcf9de39a424" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/Ship.cs">
+    <Files>
+      <File FileName="Assets/scripts/Asteroid.cs" Line="80" Column="43" />
+      <File FileName="Assets/scripts/UI/HUD.cs" Line="17" Column="1" />
+      <File FileName="Assets/scripts/Ship.cs" Line="15" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
