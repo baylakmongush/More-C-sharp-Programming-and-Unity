@@ -8,3 +8,5 @@ Module 2: Learn how inheritance and polymorphism help us write less code for our
 Module 3: Implement event handling to make better object-oriented designs and add menus to your Unity games
 Module 4: Explore the complete implementation of a small Unity game
 Module 5: Complete final peer review
+
+![alt text](https://github.com/npetrelli/More-C-sharp-Programming-and-Unity/blob/master/Screen%20Shot%202020-05-15%20at%206.59.05%20PM.png "Certificate")
