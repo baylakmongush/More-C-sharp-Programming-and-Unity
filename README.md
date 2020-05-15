@@ -15,4 +15,4 @@ Grade: 90.00%
 
 ---------------------------------------------------------------------------------------------------------------------------
 
-![alt text](https://github.com/npetrelli/More-C-sharp-Programming-and-Unity/blob/master/Screen%20Shot%202020-05-15%20at%206.59.05%20PM.png "Certificate")
+![alt text](https://github.com/npetrelli/More-C-sharp-Programming-and-Unity/blob/master/certificate.png "Certificate")
